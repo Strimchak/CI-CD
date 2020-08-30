@@ -17,12 +17,7 @@ pipeline  {
                 dir('.'){
                     //sh "docker build -t macnaer/chatterboxserver . "
                   
-                    sh '''
-                  
-                    pip3 install -r requirements.txt
-                    python3 start.py 
-
-                    '''
+                    sh "docker build -t strimchak/dfo"
                 }
             }
         }
