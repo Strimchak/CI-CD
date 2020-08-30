@@ -17,7 +17,7 @@ pipeline  {
                 dir('.'){
                     //sh "docker build -t macnaer/chatterboxserver . "
                   
-                    sh "docker build -t strimchak/dfo"
+                    sh "docker build -t strimchak/dfo ."
                 }
             }
         }
