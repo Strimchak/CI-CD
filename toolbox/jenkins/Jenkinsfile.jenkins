@@ -51,6 +51,7 @@ pipeline  {
                docker run -d --restart=always --name strimchak/dfo strimchak/dfo
                '''
            }
+       }
 
       //  stage("docker stop") {
        //     steps {
