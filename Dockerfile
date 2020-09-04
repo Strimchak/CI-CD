@@ -2,7 +2,7 @@ FROM python:latest
 
 MAINTAINER strimchak
 
-RUN apt update -y && apt-get install -y awscli
+RUN pip install awscli
 
 WORKDIR /home/dfo
 COPY . /home/dfo
