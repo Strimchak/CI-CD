@@ -7,4 +7,5 @@ COPY . /home/dfo
 
 RUN pip install -r requirements.txt
 
-ENTRYPOINT [ "start.py" ]
+ENTRYPOINT ['python']
+CMD [ "start.py" ]
