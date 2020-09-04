@@ -48,7 +48,7 @@ pipeline  {
            steps {
                echo " ============== starting =================="
                sh '''
-               docker run -d --restart=always --name strimchak/dfo strimchak/dfo
+               docker run -d --restart=always --name dfo strimchak/dfo
                '''
            }
        }
