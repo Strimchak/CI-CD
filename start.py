@@ -41,8 +41,7 @@ currencies = get_date_from_api(URL_PB_API)
 
 show_currency(currencies)
 
-
-upload_file_in_bucket()
+# upload_file_in_bucket()
 
 # delete_file_from_bucket()
 # show_buckets()
