@@ -38,9 +38,9 @@ def delete_file_from_bucket():
 
 
 print("Hello Jenkins!")
-# currencies = get_date_from_api(URL_PB_API)
+currencies = get_date_from_api(URL_PB_API)
 
-# show_currency(currencies)
+show_currency(currencies)
 
 # upload_file_in_bucket()
 
