@@ -51,6 +51,7 @@ pipeline  {
                    sh '''
                    docker run -e AWS_ACCESS_KEY_ID=$USERNAME -e AWS_SECRET_ACCESS_KEY=$PASSWORD  -d --restart=always --name dfo strimchak/dfo
                    '''
+               }
            }
        }
 // docker run  -v ${HOME}/.aws/credentials:/root/.aws/credentials:ro -d --restart=always --name dfo strimchak/dfo
