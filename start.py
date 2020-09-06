@@ -37,7 +37,7 @@ def delete_file_from_bucket():
     s3.Object('str-s3-test', 'curr.txt').delete()
 
 counter =0
-while true:
+while True:
     counter+=1
     print("Sending a ", counter, "time")
     currencies = get_date_from_api(URL_PB_API)
