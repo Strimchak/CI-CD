@@ -12,7 +12,7 @@ def get_date_from_api(URL):
 
 
 def show_currency(currencies):
-    f = open("curr.txt", "a")
+    f = open("curr.txt", "w")
     for x in currencies:
         f.write('{0:<5} {1:<3} {2:<2} {3:<4} {4:<10} {5:<4}{6:<0}'.format(
             x["ccy"], "-", x["base_ccy"], " ", x["buy"], x["sale"], "\n"))
