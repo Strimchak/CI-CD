@@ -36,13 +36,14 @@ def delete_file_from_bucket():
     s3 = boto3.resource('s3')
     s3.Object('str-s3-test', 'curr.txt').delete()
 
-
-print("Hello Jenkins!")
-currencies = get_date_from_api(URL_PB_API)
-
-show_currency(currencies)
-
-upload_file_in_bucket()
+counter =0
+while true:
+    counter+=1
+    print("Sending a ", counter, "time")
+    currencies = get_date_from_api(URL_PB_API)
+    show_currency(currencies)
+    upload_file_in_bucket()
+    time.sleep(300)
 
 # delete_file_from_bucket()
 # show_buckets()

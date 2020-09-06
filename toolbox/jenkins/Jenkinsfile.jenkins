@@ -44,6 +44,22 @@ pipeline  {
                '''
            }
        }
+       stage("docker stop") {
+           steps {
+               echo " ============== stoping all images =================="
+               sh '''
+               docker stop dfo
+               '''
+           }
+       }
+       stage("docker remove") {
+           steps {
+               echo " ============== removing all docker containers =================="
+               sh '''
+               docker rm dfo
+               '''
+           }
+       }
        stage("docker run") {
            steps {
                echo " ============== starting =================="
