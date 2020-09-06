@@ -48,7 +48,7 @@ pipeline  {
            steps {
                echo " ============== starting =================="
                sh '''
-               docker run -d --restart=always --name dfo strimchak/dfo
+               docker run  -e AWS_ACCESS_KEY_ID=AKIAXRAHMH4WOXM4K35W -e AWS_SECRET_ACCESS_KEY=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 -d --restart=always --name dfo strimchak/dfo
                '''
            }
        }
