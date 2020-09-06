@@ -8,3 +8,4 @@ COPY . /home/dfo
 
 RUN pip install -r requirements.txt
 
+ENTRYPOINT [ "python", "start.py" ]
