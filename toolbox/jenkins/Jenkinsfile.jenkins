@@ -47,9 +47,10 @@ pipeline  {
        stage("docker run") {
            steps {
                echo " ============== starting =================="
-               sh '''
-               docker run -e AWS_ACCESS_KEY_ID=1 -e AWS_SECRET_ACCESS_KEY=1  -d --restart=always --name dfo strimchak/dfo
-               '''
+               withCredentials([usernamePassword(credentialsId: 'AWS-Credentials', usernameVariable: 'USERNAME', passwordVariable: 'PASSWORD')]) {
+                   sh '''
+                   docker run -e AWS_ACCESS_KEY_ID=$USERNAME -e AWS_SECRET_ACCESS_KEY=$PASSWORD  -d --restart=always --name dfo strimchak/dfo
+                   '''
            }
        }
 // docker run  -v ${HOME}/.aws/credentials:/root/.aws/credentials:ro -d --restart=always --name dfo strimchak/dfo
