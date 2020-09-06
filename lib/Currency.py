@@ -23,7 +23,7 @@ class Currency:
 
     def __save_to_s3(self):
         # bucketname = input("Enter bucket name to upload > ")
-        bucketname = "currency-u"
+        bucketname = "str-s3-test"
         # file_name = input("Enter file name to upload > ")
         file_name = "currency.txt"
         s3 = boto3.client('s3')
@@ -37,7 +37,7 @@ class Currency:
         self.__save_to_s3()
 
     def __show_currencies(self, currency):
-        print("Inside show_Ccurrency")
+        print("Inside show_Currency")
         for item in currency:
             print(item["ccy"] + " " + item["base_ccy"] +
                 " " + item["buy"] + " | " + item["sale"])
