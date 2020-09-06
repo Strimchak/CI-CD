@@ -1,5 +1,4 @@
 import requests
-from boto3.session import Session
 import boto3
 from lib.Settings import FILENAME, URL
 
