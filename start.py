@@ -12,10 +12,6 @@ counter = 0
 while True:
     counter += 1
     print("Get online data => ", counter, " times")
-    currency.start()
-    time.sleep(300)
-
-
-while True:
     covid.start()
+    currency.start()
     time.sleep(300)
