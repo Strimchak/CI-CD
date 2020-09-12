@@ -5,12 +5,13 @@ from lib.Settings import FILENAME, URL
 if __name__ == "__main__":
     pass
 
+
 class Currency:
     def start(self):
         print("Start getting currencies ...")
         self.__get_data(URL)
-    
-    def __get_data(self,URL):
+
+    def __get_data(self, URL):
         responce = requests.get(URL)
         data = responce.json()
         print("data => ", data)
@@ -18,7 +19,6 @@ class Currency:
         self.__save_to_currency_file(data)
         print("Try to show data")
         self.__show_currencies(data)
-
 
     def __save_to_s3(self):
         # bucketname = input("Enter bucket name to upload > ")
@@ -30,21 +30,16 @@ class Currency:
 
     def __save_to_currency_file(self, data):
         with open(FILENAME, "w") as file:
-            for item in data:
-                file.write(item["ccy"] + " " + item["base_ccy"] +
-                        " " + item["buy"] + " " + item["sale"] + "\n")
+            for x in data:
+                file.write('{0:<5} {1:<3} {2:<2} {3:<4} {4:<10} {5:<4}{6:<0}'.format(
+                    x["ccy"], "-", x["base_ccy"], " ", x["buy"], x["sale"], "\n"))
         self.__save_to_s3()
 
     def __show_currencies(self, currency):
         print("Inside show_Currency")
         for item in currency:
             print(item["ccy"] + " " + item["base_ccy"] +
-                " " + item["buy"] + " | " + item["sale"])
-
-
-
-
-
+                  " " + item["buy"] + " | " + item["sale"])
 
 
 # import requests
