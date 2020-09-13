@@ -1,6 +1,7 @@
 import requests
 import boto3
 from lib.Settings import URL_COVID
+import mysql.connector
 
 if __name__ == "__main__":
     pass
