@@ -1,47 +1,47 @@
 Country: 	Afghanistan
-New confirmed: 	35
-New confirmed: 	35
-Total confirmed:38641
-New deaths: 	0
-Total deaths: 	1420
-New recovered: 	80
-Date: 		2020-09-13 11:46:42
+New confirmed: 	11
+New confirmed: 	11
+Total confirmed:38883
+New deaths: 	1
+Total deaths: 	1437
+New recovered: 	71
+Date: 		2020-09-19 19:51:46
 
 Country: 	Albania
-New confirmed: 	164
-New confirmed: 	164
-Total confirmed:11185
-New deaths: 	3
-Total deaths: 	330
-New recovered: 	51
-Date: 		2020-09-13 11:46:42
+New confirmed: 	125
+New confirmed: 	125
+Total confirmed:12073
+New deaths: 	6
+Total deaths: 	353
+New recovered: 	43
+Date: 		2020-09-19 19:51:46
 
 Country: 	Algeria
-New confirmed: 	255
-New confirmed: 	255
-Total confirmed:48007
-New deaths: 	6
-Total deaths: 	1605
-New recovered: 	152
-Date: 		2020-09-13 11:46:42
+New confirmed: 	219
+New confirmed: 	219
+Total confirmed:49413
+New deaths: 	5
+Total deaths: 	1659
+New recovered: 	143
+Date: 		2020-09-19 19:51:46
 
 Country: 	Andorra
-New confirmed: 	0
-New confirmed: 	0
-Total confirmed:1344
+New confirmed: 	81
+New confirmed: 	81
+Total confirmed:1564
 New deaths: 	0
 Total deaths: 	53
-New recovered: 	0
-Date: 		2020-09-13 11:46:42
+New recovered: 	110
+Date: 		2020-09-19 19:51:46
 
 Country: 	Angola
-New confirmed: 	56
-New confirmed: 	56
-Total confirmed:3335
-New deaths: 	1
-Total deaths: 	132
-New recovered: 	1
-Date: 		2020-09-13 11:46:42
+New confirmed: 	59
+New confirmed: 	59
+Total confirmed:3848
+New deaths: 	3
+Total deaths: 	147
+New recovered: 	38
+Date: 		2020-09-19 19:51:46
 
 Country: 	Antigua and Barbuda
 New confirmed: 	0
@@ -49,170 +49,170 @@ New confirmed: 	0
 Total confirmed:95
 New deaths: 	0
 Total deaths: 	3
-New recovered: 	0
-Date: 		2020-09-13 11:46:42
+New recovered: 	1
+Date: 		2020-09-19 19:51:46
 
 Country: 	Argentina
-New confirmed: 	10776
-New confirmed: 	10776
-Total confirmed:546481
-New deaths: 	115
-Total deaths: 	11263
-New recovered: 	9650
-Date: 		2020-09-13 11:46:42
+New confirmed: 	11945
+New confirmed: 	11945
+Total confirmed:613658
+New deaths: 	196
+Total deaths: 	12656
+New recovered: 	10939
+Date: 		2020-09-19 19:51:46
 
 Country: 	Armenia
-New confirmed: 	172
-New confirmed: 	172
-Total confirmed:45675
-New deaths: 	2
-Total deaths: 	911
-New recovered: 	171
-Date: 		2020-09-13 11:46:42
+New confirmed: 	239
+New confirmed: 	239
+Total confirmed:46910
+New deaths: 	1
+Total deaths: 	926
+New recovered: 	138
+Date: 		2020-09-19 19:51:46
 
 Country: 	Australia
-New confirmed: 	44
-New confirmed: 	44
-Total confirmed:26651
+New confirmed: 	24
+New confirmed: 	24
+Total confirmed:26885
 New deaths: 	7
-Total deaths: 	810
-New recovered: 	11
-Date: 		2020-09-13 11:46:42
+Total deaths: 	844
+New recovered: 	7
+Date: 		2020-09-19 19:51:46
 
 Country: 	Austria
-New confirmed: 	869
-New confirmed: 	869
-Total confirmed:32696
-New deaths: 	4
-Total deaths: 	754
-New recovered: 	322
-Date: 		2020-09-13 11:46:42
+New confirmed: 	808
+New confirmed: 	808
+Total confirmed:36661
+New deaths: 	5
+Total deaths: 	763
+New recovered: 	407
+Date: 		2020-09-19 19:51:46
 
 Country: 	Azerbaijan
-New confirmed: 	135
-New confirmed: 	135
-Total confirmed:38172
-New deaths: 	2
-Total deaths: 	559
-New recovered: 	167
-Date: 		2020-09-13 11:46:42
+New confirmed: 	117
+New confirmed: 	117
+Total confirmed:38894
+New deaths: 	1
+Total deaths: 	572
+New recovered: 	135
+Date: 		2020-09-19 19:51:46
 
 Country: 	Bahamas
-New confirmed: 	114
-New confirmed: 	114
-Total confirmed:2928
-New deaths: 	2
-Total deaths: 	67
-New recovered: 	99
-Date: 		2020-09-13 11:46:42
+New confirmed: 	0
+New confirmed: 	0
+Total confirmed:3177
+New deaths: 	0
+Total deaths: 	69
+New recovered: 	0
+Date: 		2020-09-19 19:51:46
 
 Country: 	Bahrain
-New confirmed: 	747
-New confirmed: 	747
-Total confirmed:59586
+New confirmed: 	690
+New confirmed: 	690
+Total confirmed:63879
 New deaths: 	3
-Total deaths: 	211
-New recovered: 	416
-Date: 		2020-09-13 11:46:42
+Total deaths: 	220
+New recovered: 	613
+Date: 		2020-09-19 19:51:46
 
 Country: 	Bangladesh
-New confirmed: 	1282
-New confirmed: 	1282
-Total confirmed:336044
-New deaths: 	34
-Total deaths: 	4702
-New recovered: 	2247
-Date: 		2020-09-13 11:46:42
+New confirmed: 	1541
+New confirmed: 	1541
+Total confirmed:345805
+New deaths: 	22
+Total deaths: 	4881
+New recovered: 	1923
+Date: 		2020-09-19 19:51:46
 
 Country: 	Barbados
 New confirmed: 	0
 New confirmed: 	0
-Total confirmed:180
+Total confirmed:185
 New deaths: 	0
 Total deaths: 	7
-New recovered: 	0
-Date: 		2020-09-13 11:46:42
+New recovered: 	1
+Date: 		2020-09-19 19:51:46
 
 Country: 	Belarus
-New confirmed: 	191
-New confirmed: 	191
-Total confirmed:73975
-New deaths: 	6
-Total deaths: 	744
-New recovered: 	178
-Date: 		2020-09-13 11:46:42
+New confirmed: 	243
+New confirmed: 	243
+Total confirmed:75230
+New deaths: 	2
+Total deaths: 	773
+New recovered: 	131
+Date: 		2020-09-19 19:51:46
 
 Country: 	Belgium
-New confirmed: 	941
-New confirmed: 	941
-Total confirmed:92478
-New deaths: 	4
-Total deaths: 	9923
-New recovered: 	20
-Date: 		2020-09-13 11:46:42
+New confirmed: 	1673
+New confirmed: 	1673
+Total confirmed:99649
+New deaths: 	1
+Total deaths: 	9937
+New recovered: 	54
+Date: 		2020-09-19 19:51:46
 
 Country: 	Belize
 New confirmed: 	23
 New confirmed: 	23
-Total confirmed:1458
-New deaths: 	0
-Total deaths: 	19
-New recovered: 	54
-Date: 		2020-09-13 11:46:42
+Total confirmed:1590
+New deaths: 	1
+Total deaths: 	20
+New recovered: 	70
+Date: 		2020-09-19 19:51:46
 
 Country: 	Benin
 New confirmed: 	0
 New confirmed: 	0
-Total confirmed:2242
+Total confirmed:2280
 New deaths: 	0
 Total deaths: 	40
 New recovered: 	0
-Date: 		2020-09-13 11:46:42
+Date: 		2020-09-19 19:51:46
 
 Country: 	Bhutan
-New confirmed: 	3
-New confirmed: 	3
-Total confirmed:244
+New confirmed: 	6
+New confirmed: 	6
+Total confirmed:252
 New deaths: 	0
 Total deaths: 	0
-New recovered: 	1
-Date: 		2020-09-13 11:46:42
+New recovered: 	7
+Date: 		2020-09-19 19:51:46
 
 Country: 	Bolivia
-New confirmed: 	810
-New confirmed: 	810
-Total confirmed:125982
-New deaths: 	47
-Total deaths: 	7297
-New recovered: 	1556
-Date: 		2020-09-13 11:46:42
+New confirmed: 	632
+New confirmed: 	632
+Total confirmed:130051
+New deaths: 	39
+Total deaths: 	7550
+New recovered: 	741
+Date: 		2020-09-19 19:51:46
 
 Country: 	Bosnia and Herzegovina
-New confirmed: 	304
-New confirmed: 	304
-Total confirmed:23138
-New deaths: 	4
-Total deaths: 	690
-New recovered: 	250
-Date: 		2020-09-13 11:46:42
+New confirmed: 	292
+New confirmed: 	292
+Total confirmed:24897
+New deaths: 	5
+Total deaths: 	752
+New recovered: 	146
+Date: 		2020-09-19 19:51:46
 
 Country: 	Botswana
 New confirmed: 	0
 New confirmed: 	0
-Total confirmed:2252
+Total confirmed:2567
 New deaths: 	0
-Total deaths: 	10
+Total deaths: 	13
 New recovered: 	0
-Date: 		2020-09-13 11:46:42
+Date: 		2020-09-19 19:51:46
 
 Country: 	Brazil
-New confirmed: 	33523
-New confirmed: 	33523
-Total confirmed:4315687
-New deaths: 	814
-Total deaths: 	131210
-New recovered: 	28048
-Date: 		2020-09-13 11:46:42
+New confirmed: 	39797
+New confirmed: 	39797
+Total confirmed:4495183
+New deaths: 	858
+Total deaths: 	135793
+New recovered: 	23605
+Date: 		2020-09-19 19:51:46
 
 Country: 	Brunei Darussalam
 New confirmed: 	0
@@ -221,214 +221,214 @@ Total confirmed:145
 New deaths: 	0
 Total deaths: 	3
 New recovered: 	0
-Date: 		2020-09-13 11:46:42
+Date: 		2020-09-19 19:51:46
 
 Country: 	Bulgaria
-New confirmed: 	92
-New confirmed: 	92
-Total confirmed:17891
+New confirmed: 	189
+New confirmed: 	189
+Total confirmed:18733
 New deaths: 	4
-Total deaths: 	717
-New recovered: 	8
-Date: 		2020-09-13 11:46:42
+Total deaths: 	753
+New recovered: 	119
+Date: 		2020-09-19 19:51:46
 
 Country: 	Burkina Faso
-New confirmed: 	15
-New confirmed: 	15
-Total confirmed:1514
+New confirmed: 	30
+New confirmed: 	30
+Total confirmed:1797
 New deaths: 	0
 Total deaths: 	56
-New recovered: 	0
-Date: 		2020-09-13 11:46:42
+New recovered: 	7
+Date: 		2020-09-19 19:51:46
 
 Country: 	Burundi
-New confirmed: 	2
-New confirmed: 	2
-Total confirmed:471
+New confirmed: 	0
+New confirmed: 	0
+Total confirmed:473
 New deaths: 	0
 Total deaths: 	1
 New recovered: 	0
-Date: 		2020-09-13 11:46:42
+Date: 		2020-09-19 19:51:46
 
 Country: 	Cambodia
-New confirmed: 	1
-New confirmed: 	1
+New confirmed: 	0
+New confirmed: 	0
 Total confirmed:275
 New deaths: 	0
 Total deaths: 	0
 New recovered: 	0
-Date: 		2020-09-13 11:46:42
+Date: 		2020-09-19 19:51:46
 
 Country: 	Cameroon
-New confirmed: 	0
-New confirmed: 	0
-Total confirmed:20009
-New deaths: 	0
-Total deaths: 	415
-New recovered: 	0
-Date: 		2020-09-13 11:46:42
+New confirmed: 	68
+New confirmed: 	68
+Total confirmed:20371
+New deaths: 	1
+Total deaths: 	416
+New recovered: 	287
+Date: 		2020-09-19 19:51:46
 
 Country: 	Canada
-New confirmed: 	488
-New confirmed: 	488
-Total confirmed:138151
-New deaths: 	6
-Total deaths: 	9219
-New recovered: 	407
-Date: 		2020-09-13 11:46:42
+New confirmed: 	1174
+New confirmed: 	1174
+Total confirmed:144040
+New deaths: 	7
+Total deaths: 	9255
+New recovered: 	670
+Date: 		2020-09-19 19:51:46
 
 Country: 	Cape Verde
-New confirmed: 	60
-New confirmed: 	60
-Total confirmed:4711
-New deaths: 	0
-Total deaths: 	44
-New recovered: 	28
-Date: 		2020-09-13 11:46:42
+New confirmed: 	78
+New confirmed: 	78
+Total confirmed:5141
+New deaths: 	1
+Total deaths: 	50
+New recovered: 	83
+Date: 		2020-09-19 19:51:46
 
 Country: 	Central African Republic
-New confirmed: 	0
-New confirmed: 	0
-Total confirmed:4749
+New confirmed: 	4
+New confirmed: 	4
+Total confirmed:4786
 New deaths: 	0
 Total deaths: 	62
 New recovered: 	0
-Date: 		2020-09-13 11:46:42
+Date: 		2020-09-19 19:51:46
 
 Country: 	Chad
-New confirmed: 	2
-New confirmed: 	2
-Total confirmed:1083
-New deaths: 	1
-Total deaths: 	80
+New confirmed: 	32
+New confirmed: 	32
+Total confirmed:1147
+New deaths: 	0
+Total deaths: 	81
 New recovered: 	4
-Date: 		2020-09-13 11:46:42
+Date: 		2020-09-19 19:51:46
 
 Country: 	Chile
-New confirmed: 	2131
-New confirmed: 	2131
-Total confirmed:432666
-New deaths: 	45
-Total deaths: 	11895
-New recovered: 	1855
-Date: 		2020-09-13 11:46:42
+New confirmed: 	1677
+New confirmed: 	1677
+Total confirmed:442827
+New deaths: 	57
+Total deaths: 	12199
+New recovered: 	2053
+Date: 		2020-09-19 19:51:46
 
 Country: 	China
-New confirmed: 	23
-New confirmed: 	23
-Total confirmed:90168
+New confirmed: 	17
+New confirmed: 	17
+Total confirmed:90311
 New deaths: 	1
-Total deaths: 	4734
-New recovered: 	29
-Date: 		2020-09-13 11:46:42
+Total deaths: 	4737
+New recovered: 	23
+Date: 		2020-09-19 19:51:46
 
 Country: 	Colombia
-New confirmed: 	6876
-New confirmed: 	6876
-Total confirmed:708964
-New deaths: 	216
-Total deaths: 	22734
-New recovered: 	10126
-Date: 		2020-09-13 11:46:42
+New confirmed: 	6526
+New confirmed: 	6526
+Total confirmed:750471
+New deaths: 	0
+Total deaths: 	23665
+New recovered: 	0
+Date: 		2020-09-19 19:51:46
 
 Country: 	Comoros
 New confirmed: 	0
 New confirmed: 	0
-Total confirmed:456
+Total confirmed:470
 New deaths: 	0
 Total deaths: 	7
 New recovered: 	0
-Date: 		2020-09-13 11:46:42
+Date: 		2020-09-19 19:51:46
 
 Country: 	Congo (Brazzaville)
-New confirmed: 	0
-New confirmed: 	0
-Total confirmed:4928
-New deaths: 	0
-Total deaths: 	88
+New confirmed: 	46
+New confirmed: 	46
+Total confirmed:4980
+New deaths: 	1
+Total deaths: 	89
 New recovered: 	0
-Date: 		2020-09-13 11:46:42
+Date: 		2020-09-19 19:51:46
 
 Country: 	Congo (Kinshasa)
-New confirmed: 	24
-New confirmed: 	24
-Total confirmed:10385
-New deaths: 	0
-Total deaths: 	262
-New recovered: 	97
-Date: 		2020-09-13 11:46:42
+New confirmed: 	14
+New confirmed: 	14
+Total confirmed:10456
+New deaths: 	1
+Total deaths: 	268
+New recovered: 	23
+Date: 		2020-09-19 19:51:46
 
 Country: 	Costa Rica
-New confirmed: 	1485
-New confirmed: 	1485
-Total confirmed:55454
-New deaths: 	7
-Total deaths: 	590
-New recovered: 	218
-Date: 		2020-09-13 11:46:42
+New confirmed: 	1556
+New confirmed: 	1556
+Total confirmed:62374
+New deaths: 	20
+Total deaths: 	686
+New recovered: 	498
+Date: 		2020-09-19 19:51:46
 
 Country: 	Croatia
-New confirmed: 	261
-New confirmed: 	261
-Total confirmed:13368
-New deaths: 	7
-Total deaths: 	218
-New recovered: 	255
-Date: 		2020-09-13 11:46:42
+New confirmed: 	234
+New confirmed: 	234
+Total confirmed:14513
+New deaths: 	6
+Total deaths: 	244
+New recovered: 	236
+Date: 		2020-09-19 19:51:46
 
 Country: 	Cuba
-New confirmed: 	60
-New confirmed: 	60
-Total confirmed:4653
+New confirmed: 	71
+New confirmed: 	71
+Total confirmed:5004
 New deaths: 	2
-Total deaths: 	108
-New recovered: 	34
-Date: 		2020-09-13 11:46:42
+Total deaths: 	111
+New recovered: 	19
+Date: 		2020-09-19 19:51:46
 
 Country: 	Cyprus
-New confirmed: 	3
-New confirmed: 	3
-Total confirmed:1523
+New confirmed: 	7
+New confirmed: 	7
+Total confirmed:1565
 New deaths: 	0
 Total deaths: 	22
-New recovered: 	44
-Date: 		2020-09-13 11:46:42
+New recovered: 	0
+Date: 		2020-09-19 19:51:46
 
 Country: 	Czech Republic
-New confirmed: 	1541
-New confirmed: 	1541
-Total confirmed:35401
-New deaths: 	3
-Total deaths: 	453
-New recovered: 	65
-Date: 		2020-09-13 11:46:42
+New confirmed: 	2107
+New confirmed: 	2107
+Total confirmed:46262
+New deaths: 	6
+Total deaths: 	495
+New recovered: 	481
+Date: 		2020-09-19 19:51:46
 
 Country: 	Côte d'Ivoire
-New confirmed: 	0
-New confirmed: 	0
-Total confirmed:18916
+New confirmed: 	42
+New confirmed: 	42
+Total confirmed:19200
 New deaths: 	0
-Total deaths: 	119
-New recovered: 	0
-Date: 		2020-09-13 11:46:42
+Total deaths: 	120
+New recovered: 	62
+Date: 		2020-09-19 19:51:46
 
 Country: 	Denmark
-New confirmed: 	343
-New confirmed: 	343
-Total confirmed:19989
-New deaths: 	1
-Total deaths: 	630
-New recovered: 	108
-Date: 		2020-09-13 11:46:42
+New confirmed: 	455
+New confirmed: 	455
+Total confirmed:22291
+New deaths: 	0
+Total deaths: 	635
+New recovered: 	192
+Date: 		2020-09-19 19:51:46
 
 Country: 	Djibouti
-New confirmed: 	0
-New confirmed: 	0
-Total confirmed:5394
+New confirmed: 	4
+New confirmed: 	4
+Total confirmed:5403
 New deaths: 	0
 Total deaths: 	61
 New recovered: 	0
-Date: 		2020-09-13 11:46:42
+Date: 		2020-09-19 19:51:46
 
 Country: 	Dominica
 New confirmed: 	0
@@ -437,79 +437,79 @@ Total confirmed:24
 New deaths: 	0
 Total deaths: 	0
 New recovered: 	0
-Date: 		2020-09-13 11:46:42
+Date: 		2020-09-19 19:51:46
 
 Country: 	Dominican Republic
-New confirmed: 	860
-New confirmed: 	860
-Total confirmed:103092
+New confirmed: 	596
+New confirmed: 	596
+Total confirmed:106732
 New deaths: 	12
-Total deaths: 	1953
-New recovered: 	784
-Date: 		2020-09-13 11:46:42
+Total deaths: 	2034
+New recovered: 	816
+Date: 		2020-09-19 19:51:46
 
 Country: 	Ecuador
-New confirmed: 	1719
-New confirmed: 	1719
-Total confirmed:116451
-New deaths: 	28
-Total deaths: 	10864
+New confirmed: 	1872
+New confirmed: 	1872
+Total confirmed:124129
+New deaths: 	15
+Total deaths: 	11044
 New recovered: 	0
-Date: 		2020-09-13 11:46:42
+Date: 		2020-09-19 19:51:46
 
 Country: 	Egypt
-New confirmed: 	148
-New confirmed: 	148
-Total confirmed:100856
-New deaths: 	20
-Total deaths: 	5627
-New recovered: 	788
-Date: 		2020-09-13 11:46:42
+New confirmed: 	131
+New confirmed: 	131
+Total confirmed:101772
+New deaths: 	18
+Total deaths: 	5733
+New recovered: 	800
+Date: 		2020-09-19 19:51:46
 
 Country: 	El Salvador
-New confirmed: 	78
-New confirmed: 	78
-Total confirmed:26851
-New deaths: 	5
-Total deaths: 	782
-New recovered: 	441
-Date: 		2020-09-13 11:46:42
+New confirmed: 	97
+New confirmed: 	97
+Total confirmed:27346
+New deaths: 	3
+Total deaths: 	804
+New recovered: 	433
+Date: 		2020-09-19 19:51:46
 
 Country: 	Equatorial Guinea
 New confirmed: 	0
 New confirmed: 	0
-Total confirmed:4996
+Total confirmed:5002
 New deaths: 	0
 Total deaths: 	83
 New recovered: 	0
-Date: 		2020-09-13 11:46:42
+Date: 		2020-09-19 19:51:46
 
 Country: 	Eritrea
 New confirmed: 	0
 New confirmed: 	0
-Total confirmed:361
+Total confirmed:364
 New deaths: 	0
 Total deaths: 	0
 New recovered: 	0
-Date: 		2020-09-13 11:46:42
+Date: 		2020-09-19 19:51:46
 
 Country: 	Estonia
-New confirmed: 	23
-New confirmed: 	23
-Total confirmed:2655
+New confirmed: 	36
+New confirmed: 	36
+Total confirmed:2814
 New deaths: 	0
 Total deaths: 	64
-New recovered: 	19
-Date: 		2020-09-13 11:46:42
+New recovered: 	20
+Date: 		2020-09-19 19:51:46
 
 Country: 	Ethiopia
-New confirmed: 	521
-New confirmed: 	521
-Total confirmed:63888
-New deaths: 	10
-Total deaths: 	996
-New recovered: 	469
-Date: 		2020-09-13 11:46:42
+New confirmed: 	602
+New confirmed: 	602
+Total confirmed:67515
+New deaths: 	12
+Total deaths: 	1072
+New recovered: 	553
+Date: 		2020-09-19 19:51:46
 
 Country: 	Fiji
 New confirmed: 	0
@@ -518,79 +518,79 @@ Total confirmed:32
 New deaths: 	0
 Total deaths: 	2
 New recovered: 	0
-Date: 		2020-09-13 11:46:42
+Date: 		2020-09-19 19:51:46
 
 Country: 	Finland
-New confirmed: 	45
-New confirmed: 	45
-Total confirmed:8557
+New confirmed: 	59
+New confirmed: 	59
+Total confirmed:8858
 New deaths: 	0
-Total deaths: 	337
+Total deaths: 	339
 New recovered: 	0
-Date: 		2020-09-13 11:46:42
+Date: 		2020-09-19 19:51:46
 
 Country: 	France
-New confirmed: 	921
-New confirmed: 	921
-Total confirmed:402811
-New deaths: 	1
-Total deaths: 	30902
-New recovered: 	555
-Date: 		2020-09-13 11:46:42
+New confirmed: 	13155
+New confirmed: 	13155
+Total confirmed:467421
+New deaths: 	154
+Total deaths: 	31257
+New recovered: 	935
+Date: 		2020-09-19 19:51:46
 
 Country: 	Gabon
-New confirmed: 	0
-New confirmed: 	0
-Total confirmed:8643
+New confirmed: 	18
+New confirmed: 	18
+Total confirmed:8696
 New deaths: 	0
 Total deaths: 	53
-New recovered: 	0
-Date: 		2020-09-13 11:46:42
+New recovered: 	21
+Date: 		2020-09-19 19:51:46
 
 Country: 	Gambia
-New confirmed: 	14
-New confirmed: 	14
-Total confirmed:3376
-New deaths: 	2
-Total deaths: 	102
-New recovered: 	35
-Date: 		2020-09-13 11:46:42
+New confirmed: 	12
+New confirmed: 	12
+Total confirmed:3485
+New deaths: 	1
+Total deaths: 	108
+New recovered: 	22
+Date: 		2020-09-19 19:51:46
 
 Country: 	Georgia
-New confirmed: 	158
-New confirmed: 	158
-Total confirmed:2075
+New confirmed: 	182
+New confirmed: 	182
+Total confirmed:3119
 New deaths: 	0
 Total deaths: 	19
-New recovered: 	9
-Date: 		2020-09-13 11:46:42
+New recovered: 	13
+Date: 		2020-09-19 19:51:46
 
 Country: 	Germany
-New confirmed: 	1082
-New confirmed: 	1082
-Total confirmed:260817
-New deaths: 	4
-Total deaths: 	9352
-New recovered: 	604
-Date: 		2020-09-13 11:46:42
+New confirmed: 	2199
+New confirmed: 	2199
+Total confirmed:271247
+New deaths: 	10
+Total deaths: 	9386
+New recovered: 	1217
+Date: 		2020-09-19 19:51:46
 
 Country: 	Ghana
 New confirmed: 	46
 New confirmed: 	46
-Total confirmed:45434
+Total confirmed:45760
 New deaths: 	1
-Total deaths: 	286
-New recovered: 	75
-Date: 		2020-09-13 11:46:42
+Total deaths: 	295
+New recovered: 	77
+Date: 		2020-09-19 19:51:46
 
 Country: 	Greece
-New confirmed: 	302
-New confirmed: 	302
-Total confirmed:13036
+New confirmed: 	338
+New confirmed: 	338
+Total confirmed:14738
 New deaths: 	2
-Total deaths: 	302
+Total deaths: 	327
 New recovered: 	0
-Date: 		2020-09-13 11:46:42
+Date: 		2020-09-19 19:51:46
 
 Country: 	Grenada
 New confirmed: 	0
@@ -599,52 +599,52 @@ Total confirmed:24
 New deaths: 	0
 Total deaths: 	0
 New recovered: 	0
-Date: 		2020-09-13 11:46:42
+Date: 		2020-09-19 19:51:46
 
 Country: 	Guatemala
-New confirmed: 	649
-New confirmed: 	649
-Total confirmed:81658
-New deaths: 	20
-Total deaths: 	2949
-New recovered: 	700
-Date: 		2020-09-13 11:46:42
+New confirmed: 	680
+New confirmed: 	680
+Total confirmed:84344
+New deaths: 	40
+Total deaths: 	3076
+New recovered: 	488
+Date: 		2020-09-19 19:51:46
 
 Country: 	Guinea
-New confirmed: 	41
-New confirmed: 	41
-Total confirmed:10020
+New confirmed: 	77
+New confirmed: 	77
+Total confirmed:10231
 New deaths: 	0
 Total deaths: 	63
-New recovered: 	62
-Date: 		2020-09-13 11:46:42
+New recovered: 	48
+Date: 		2020-09-19 19:51:46
 
 Country: 	Guinea-Bissau
-New confirmed: 	0
-New confirmed: 	0
-Total confirmed:2275
+New confirmed: 	28
+New confirmed: 	28
+Total confirmed:2303
 New deaths: 	0
 Total deaths: 	39
 New recovered: 	0
-Date: 		2020-09-13 11:46:42
+Date: 		2020-09-19 19:51:46
 
 Country: 	Guyana
-New confirmed: 	49
-New confirmed: 	49
-Total confirmed:1812
+New confirmed: 	75
+New confirmed: 	75
+Total confirmed:2102
 New deaths: 	2
-Total deaths: 	54
-New recovered: 	47
-Date: 		2020-09-13 11:46:42
+Total deaths: 	62
+New recovered: 	12
+Date: 		2020-09-19 19:51:46
 
 Country: 	Haiti
-New confirmed: 	21
-New confirmed: 	21
-Total confirmed:8478
-New deaths: 	3
-Total deaths: 	219
-New recovered: 	0
-Date: 		2020-09-13 11:46:42
+New confirmed: 	44
+New confirmed: 	44
+Total confirmed:8600
+New deaths: 	1
+Total deaths: 	221
+New recovered: 	48
+Date: 		2020-09-19 19:51:46
 
 Country: 	Holy See (Vatican City State)
 New confirmed: 	0
@@ -653,169 +653,169 @@ Total confirmed:12
 New deaths: 	0
 Total deaths: 	0
 New recovered: 	0
-Date: 		2020-09-13 11:46:42
+Date: 		2020-09-19 19:51:46
 
 Country: 	Honduras
-New confirmed: 	1087
-New confirmed: 	1087
-Total confirmed:67136
-New deaths: 	7
-Total deaths: 	2065
-New recovered: 	1147
-Date: 		2020-09-13 11:46:42
+New confirmed: 	491
+New confirmed: 	491
+Total confirmed:70611
+New deaths: 	24
+Total deaths: 	2146
+New recovered: 	472
+Date: 		2020-09-19 19:51:46
 
 Country: 	Hungary
-New confirmed: 	916
-New confirmed: 	916
-Total confirmed:11825
-New deaths: 	2
-Total deaths: 	633
-New recovered: 	44
-Date: 		2020-09-13 11:46:42
+New confirmed: 	941
+New confirmed: 	941
+Total confirmed:16111
+New deaths: 	6
+Total deaths: 	669
+New recovered: 	13
+Date: 		2020-09-19 19:51:46
 
 Country: 	Iceland
-New confirmed: 	1
-New confirmed: 	1
-Total confirmed:2162
+New confirmed: 	24
+New confirmed: 	24
+Total confirmed:2230
 New deaths: 	0
 Total deaths: 	10
-New recovered: 	6
-Date: 		2020-09-13 11:46:42
+New recovered: 	0
+Date: 		2020-09-19 19:51:46
 
 Country: 	India
-New confirmed: 	94372
-New confirmed: 	94372
-Total confirmed:4754356
-New deaths: 	1114
-Total deaths: 	78586
-New recovered: 	78399
-Date: 		2020-09-13 11:46:42
+New confirmed: 	0
+New confirmed: 	0
+Total confirmed:5214677
+New deaths: 	0
+Total deaths: 	84372
+New recovered: 	0
+Date: 		2020-09-19 19:51:46
 
 Country: 	Indonesia
-New confirmed: 	3806
-New confirmed: 	3806
-Total confirmed:214746
-New deaths: 	106
-Total deaths: 	8650
-New recovered: 	2241
-Date: 		2020-09-13 11:46:42
+New confirmed: 	3891
+New confirmed: 	3891
+Total confirmed:236519
+New deaths: 	114
+Total deaths: 	9336
+New recovered: 	4088
+Date: 		2020-09-19 19:51:46
 
 Country: 	Iran, Islamic Republic of
-New confirmed: 	2139
-New confirmed: 	2139
-Total confirmed:399940
-New deaths: 	116
-Total deaths: 	23029
-New recovered: 	1977
-Date: 		2020-09-13 11:46:42
+New confirmed: 	3049
+New confirmed: 	3049
+Total confirmed:416198
+New deaths: 	144
+Total deaths: 	23952
+New recovered: 	1657
+Date: 		2020-09-19 19:51:46
 
 Country: 	Iraq
-New confirmed: 	4106
-New confirmed: 	4106
-Total confirmed:286778
-New deaths: 	60
-Total deaths: 	7941
-New recovered: 	3887
-Date: 		2020-09-13 11:46:42
+New confirmed: 	4305
+New confirmed: 	4305
+Total confirmed:311690
+New deaths: 	76
+Total deaths: 	8408
+New recovered: 	4205
+Date: 		2020-09-19 19:51:46
 
 Country: 	Ireland
-New confirmed: 	159
-New confirmed: 	159
-Total confirmed:30730
-New deaths: 	2
-Total deaths: 	1783
+New confirmed: 	248
+New confirmed: 	248
+Total confirmed:32271
+New deaths: 	3
+Total deaths: 	1792
 New recovered: 	0
-Date: 		2020-09-13 11:46:42
+Date: 		2020-09-19 19:51:46
 
 Country: 	Israel
-New confirmed: 	4158
-New confirmed: 	4158
-Total confirmed:152722
-New deaths: 	13
-Total deaths: 	1103
-New recovered: 	1768
-Date: 		2020-09-13 11:46:42
+New confirmed: 	3815
+New confirmed: 	3815
+Total confirmed:179071
+New deaths: 	27
+Total deaths: 	1196
+New recovered: 	3695
+Date: 		2020-09-19 19:51:46
 
 Country: 	Italy
-New confirmed: 	1501
-New confirmed: 	1501
-Total confirmed:286297
-New deaths: 	6
-Total deaths: 	35603
-New recovered: 	759
-Date: 		2020-09-13 11:46:42
+New confirmed: 	1907
+New confirmed: 	1907
+Total confirmed:294932
+New deaths: 	10
+Total deaths: 	35668
+New recovered: 	853
+Date: 		2020-09-19 19:51:46
 
 Country: 	Jamaica
-New confirmed: 	112
-New confirmed: 	112
-Total confirmed:3623
-New deaths: 	0
-Total deaths: 	40
-New recovered: 	53
-Date: 		2020-09-13 11:46:42
+New confirmed: 	197
+New confirmed: 	197
+Total confirmed:4571
+New deaths: 	4
+Total deaths: 	55
+New recovered: 	39
+Date: 		2020-09-19 19:51:46
 
 Country: 	Japan
-New confirmed: 	648
-New confirmed: 	648
-Total confirmed:75206
-New deaths: 	13
-Total deaths: 	1441
-New recovered: 	690
-Date: 		2020-09-13 11:46:42
+New confirmed: 	573
+New confirmed: 	573
+Total confirmed:78061
+New deaths: 	10
+Total deaths: 	1500
+New recovered: 	641
+Date: 		2020-09-19 19:51:46
 
 Country: 	Jordan
-New confirmed: 	117
-New confirmed: 	117
-Total confirmed:3062
-New deaths: 	1
-Total deaths: 	22
-New recovered: 	72
-Date: 		2020-09-13 11:46:42
+New confirmed: 	213
+New confirmed: 	213
+Total confirmed:4344
+New deaths: 	3
+Total deaths: 	29
+New recovered: 	96
+Date: 		2020-09-19 19:51:46
 
 Country: 	Kazakhstan
-New confirmed: 	74
-New confirmed: 	74
-Total confirmed:106803
+New confirmed: 	65
+New confirmed: 	65
+Total confirmed:107199
 New deaths: 	0
-Total deaths: 	1634
-New recovered: 	206
-Date: 		2020-09-13 11:46:42
+Total deaths: 	1671
+New recovered: 	212
+Date: 		2020-09-19 19:51:46
 
 Country: 	Kenya
-New confirmed: 	176
-New confirmed: 	176
-Total confirmed:35969
-New deaths: 	3
-Total deaths: 	619
-New recovered: 	329
-Date: 		2020-09-13 11:46:42
+New confirmed: 	148
+New confirmed: 	148
+Total confirmed:36724
+New deaths: 	4
+Total deaths: 	646
+New recovered: 	98
+Date: 		2020-09-19 19:51:46
 
 Country: 	Korea (South)
-New confirmed: 	121
-New confirmed: 	121
-Total confirmed:22176
-New deaths: 	3
-Total deaths: 	358
-New recovered: 	197
-Date: 		2020-09-13 11:46:42
+New confirmed: 	110
+New confirmed: 	110
+Total confirmed:22893
+New deaths: 	1
+Total deaths: 	378
+New recovered: 	199
+Date: 		2020-09-19 19:51:46
 
 Country: 	Kuwait
-New confirmed: 	736
-New confirmed: 	736
-Total confirmed:94211
-New deaths: 	1
-Total deaths: 	558
-New recovered: 	744
-Date: 		2020-09-13 11:46:42
+New confirmed: 	704
+New confirmed: 	704
+Total confirmed:98528
+New deaths: 	5
+Total deaths: 	580
+New recovered: 	865
+Date: 		2020-09-19 19:51:46
 
 Country: 	Kyrgyzstan
-New confirmed: 	67
-New confirmed: 	67
-Total confirmed:44828
+New confirmed: 	91
+New confirmed: 	91
+Total confirmed:45244
 New deaths: 	0
 Total deaths: 	1063
-New recovered: 	148
-Date: 		2020-09-13 11:46:42
+New recovered: 	98
+Date: 		2020-09-19 19:51:46
 
 Country: 	Lao PDR
 New confirmed: 	0
@@ -824,196 +824,196 @@ Total confirmed:23
 New deaths: 	0
 Total deaths: 	0
 New recovered: 	0
-Date: 		2020-09-13 11:46:42
+Date: 		2020-09-19 19:51:46
 
 Country: 	Latvia
-New confirmed: 	5
-New confirmed: 	5
-Total confirmed:1464
+New confirmed: 	4
+New confirmed: 	4
+Total confirmed:1498
 New deaths: 	0
-Total deaths: 	35
+Total deaths: 	36
 New recovered: 	0
-Date: 		2020-09-13 11:46:42
+Date: 		2020-09-19 19:51:46
 
 Country: 	Lebanon
-New confirmed: 	686
-New confirmed: 	686
-Total confirmed:23669
-New deaths: 	10
-Total deaths: 	239
-New recovered: 	624
-Date: 		2020-09-13 11:46:42
+New confirmed: 	750
+New confirmed: 	750
+Total confirmed:27518
+New deaths: 	18
+Total deaths: 	281
+New recovered: 	522
+Date: 		2020-09-19 19:51:46
 
 Country: 	Lesotho
-New confirmed: 	0
-New confirmed: 	0
-Total confirmed:1245
+New confirmed: 	63
+New confirmed: 	63
+Total confirmed:1390
 New deaths: 	0
 Total deaths: 	33
-New recovered: 	0
-Date: 		2020-09-13 11:46:42
+New recovered: 	67
+Date: 		2020-09-19 19:51:46
 
 Country: 	Liberia
 New confirmed: 	1
 New confirmed: 	1
-Total confirmed:1316
+Total confirmed:1334
 New deaths: 	0
 Total deaths: 	82
-New recovered: 	11
-Date: 		2020-09-13 11:46:42
+New recovered: 	0
+Date: 		2020-09-19 19:51:46
 
 Country: 	Libya
-New confirmed: 	440
-New confirmed: 	440
-Total confirmed:22348
-New deaths: 	2
-Total deaths: 	354
-New recovered: 	9594
-Date: 		2020-09-13 11:46:42
+New confirmed: 	616
+New confirmed: 	616
+Total confirmed:26438
+New deaths: 	9
+Total deaths: 	418
+New recovered: 	299
+Date: 		2020-09-19 19:51:46
 
 Country: 	Liechtenstein
-New confirmed: 	2
-New confirmed: 	2
-Total confirmed:111
+New confirmed: 	0
+New confirmed: 	0
+Total confirmed:112
 New deaths: 	0
 Total deaths: 	1
 New recovered: 	0
-Date: 		2020-09-13 11:46:42
+Date: 		2020-09-19 19:51:46
 
 Country: 	Lithuania
-New confirmed: 	53
-New confirmed: 	53
-Total confirmed:3296
+New confirmed: 	61
+New confirmed: 	61
+Total confirmed:3565
 New deaths: 	0
-Total deaths: 	86
-New recovered: 	21
-Date: 		2020-09-13 11:46:42
+Total deaths: 	87
+New recovered: 	32
+Date: 		2020-09-19 19:51:46
 
 Country: 	Luxembourg
-New confirmed: 	71
-New confirmed: 	71
-Total confirmed:7159
+New confirmed: 	177
+New confirmed: 	177
+Total confirmed:7718
 New deaths: 	0
 Total deaths: 	124
-New recovered: 	54
-Date: 		2020-09-13 11:46:42
+New recovered: 	62
+Date: 		2020-09-19 19:51:46
 
 Country: 	Macao, SAR China
-New confirmed: 	6396100
-New confirmed: 	6396100
-Total confirmed:6396100
+New confirmed: 	0
+New confirmed: 	0
+Total confirmed:0
 New deaths: 	0
 Total deaths: 	0
 New recovered: 	0
-Date: 		2020-09-13 11:46:42
+Date: 		2020-09-19 19:51:46
 
 Country: 	Macedonia, Republic of
-New confirmed: 	139
-New confirmed: 	139
-Total confirmed:15694
-New deaths: 	4
-Total deaths: 	646
-New recovered: 	134
-Date: 		2020-09-13 11:46:42
+New confirmed: 	143
+New confirmed: 	143
+Total confirmed:16417
+New deaths: 	8
+Total deaths: 	683
+New recovered: 	97
+Date: 		2020-09-19 19:51:46
 
 Country: 	Madagascar
-New confirmed: 	68
-New confirmed: 	68
-Total confirmed:15737
+New confirmed: 	46
+New confirmed: 	46
+Total confirmed:15971
 New deaths: 	1
-Total deaths: 	210
-New recovered: 	29
-Date: 		2020-09-13 11:46:42
+Total deaths: 	217
+New recovered: 	40
+Date: 		2020-09-19 19:51:46
 
 Country: 	Malawi
-New confirmed: 	9
-New confirmed: 	9
-Total confirmed:5678
+New confirmed: 	5
+New confirmed: 	5
+Total confirmed:5716
 New deaths: 	0
-Total deaths: 	177
-New recovered: 	4
-Date: 		2020-09-13 11:46:42
+Total deaths: 	179
+New recovered: 	26
+Date: 		2020-09-19 19:51:46
 
 Country: 	Malaysia
-New confirmed: 	58
-New confirmed: 	58
-Total confirmed:9868
-New deaths: 	0
-Total deaths: 	128
-New recovered: 	8
-Date: 		2020-09-13 11:46:42
+New confirmed: 	95
+New confirmed: 	95
+Total confirmed:10147
+New deaths: 	1
+Total deaths: 	129
+New recovered: 	14
+Date: 		2020-09-19 19:51:46
 
 Country: 	Maldives
-New confirmed: 	62
-New confirmed: 	62
-Total confirmed:9052
+New confirmed: 	74
+New confirmed: 	74
+Total confirmed:9568
 New deaths: 	0
-Total deaths: 	31
-New recovered: 	209
-Date: 		2020-09-13 11:46:42
+Total deaths: 	33
+New recovered: 	44
+Date: 		2020-09-19 19:51:46
 
 Country: 	Mali
-New confirmed: 	4
-New confirmed: 	4
-Total confirmed:2916
+New confirmed: 	25
+New confirmed: 	25
+Total confirmed:2991
 New deaths: 	0
 Total deaths: 	128
-New recovered: 	5
-Date: 		2020-09-13 11:46:42
+New recovered: 	21
+Date: 		2020-09-19 19:51:46
 
 Country: 	Malta
-New confirmed: 	27
-New confirmed: 	27
-Total confirmed:2274
-New deaths: 	0
-Total deaths: 	15
-New recovered: 	17
-Date: 		2020-09-13 11:46:42
+New confirmed: 	39
+New confirmed: 	39
+Total confirmed:2634
+New deaths: 	1
+Total deaths: 	17
+New recovered: 	18
+Date: 		2020-09-19 19:51:46
 
 Country: 	Mauritania
-New confirmed: 	8
-New confirmed: 	8
-Total confirmed:7274
+New confirmed: 	15
+New confirmed: 	15
+Total confirmed:7361
 New deaths: 	0
 Total deaths: 	161
-New recovered: 	18
-Date: 		2020-09-13 11:46:42
+New recovered: 	17
+Date: 		2020-09-19 19:51:46
 
 Country: 	Mauritius
 New confirmed: 	0
 New confirmed: 	0
-Total confirmed:361
+Total confirmed:366
 New deaths: 	0
 Total deaths: 	10
 New recovered: 	0
-Date: 		2020-09-13 11:46:42
+Date: 		2020-09-19 19:51:46
 
 Country: 	Mexico
-New confirmed: 	5674
-New confirmed: 	5674
-Total confirmed:663973
-New deaths: 	421
-Total deaths: 	70604
-New recovered: 	4025
-Date: 		2020-09-13 11:46:42
+New confirmed: 	4841
+New confirmed: 	4841
+Total confirmed:688954
+New deaths: 	624
+Total deaths: 	72803
+New recovered: 	2964
+Date: 		2020-09-19 19:51:46
 
 Country: 	Moldova
-New confirmed: 	531
-New confirmed: 	531
-Total confirmed:42714
-New deaths: 	3
-Total deaths: 	1117
-New recovered: 	0
-Date: 		2020-09-13 11:46:42
+New confirmed: 	665
+New confirmed: 	665
+Total confirmed:45648
+New deaths: 	16
+Total deaths: 	1186
+New recovered: 	495
+Date: 		2020-09-19 19:51:46
 
 Country: 	Monaco
-New confirmed: 	1
-New confirmed: 	1
-Total confirmed:169
+New confirmed: 	5
+New confirmed: 	5
+Total confirmed:191
 New deaths: 	0
 Total deaths: 	1
-New recovered: 	0
-Date: 		2020-09-13 11:46:42
+New recovered: 	5
+Date: 		2020-09-19 19:51:46
 
 Country: 	Mongolia
 New confirmed: 	0
@@ -1022,214 +1022,214 @@ Total confirmed:311
 New deaths: 	0
 Total deaths: 	0
 New recovered: 	0
-Date: 		2020-09-13 11:46:42
+Date: 		2020-09-19 19:51:46
 
 Country: 	Montenegro
-New confirmed: 	145
-New confirmed: 	145
-Total confirmed:6530
-New deaths: 	3
-Total deaths: 	118
-New recovered: 	31
-Date: 		2020-09-13 11:46:42
+New confirmed: 	208
+New confirmed: 	208
+Total confirmed:7711
+New deaths: 	4
+Total deaths: 	133
+New recovered: 	105
+Date: 		2020-09-19 19:51:46
 
 Country: 	Morocco
-New confirmed: 	2238
-New confirmed: 	2238
-Total confirmed:84435
-New deaths: 	29
-Total deaths: 	1553
-New recovered: 	1673
-Date: 		2020-09-13 11:46:42
+New confirmed: 	2760
+New confirmed: 	2760
+Total confirmed:97264
+New deaths: 	41
+Total deaths: 	1755
+New recovered: 	1760
+Date: 		2020-09-19 19:51:46
 
 Country: 	Mozambique
-New confirmed: 	122
-New confirmed: 	122
-Total confirmed:5040
-New deaths: 	4
-Total deaths: 	35
-New recovered: 	6
-Date: 		2020-09-13 11:46:42
+New confirmed: 	103
+New confirmed: 	103
+Total confirmed:6264
+New deaths: 	1
+Total deaths: 	40
+New recovered: 	109
+Date: 		2020-09-19 19:51:46
 
 Country: 	Myanmar
-New confirmed: 	374
-New confirmed: 	374
-Total confirmed:2796
-New deaths: 	2
-Total deaths: 	16
-New recovered: 	51
-Date: 		2020-09-13 11:46:42
+New confirmed: 	322
+New confirmed: 	322
+Total confirmed:4621
+New deaths: 	14
+Total deaths: 	75
+New recovered: 	186
+Date: 		2020-09-19 19:51:46
 
 Country: 	Namibia
-New confirmed: 	167
-New confirmed: 	167
-Total confirmed:9604
+New confirmed: 	129
+New confirmed: 	129
+Total confirmed:10207
 New deaths: 	0
-Total deaths: 	98
-New recovered: 	913
-Date: 		2020-09-13 11:46:42
+Total deaths: 	108
+New recovered: 	262
+Date: 		2020-09-19 19:51:46
 
 Country: 	Nepal
-New confirmed: 	1201
-New confirmed: 	1201
-Total confirmed:53120
-New deaths: 	14
-Total deaths: 	336
-New recovered: 	852
-Date: 		2020-09-13 11:46:42
+New confirmed: 	2020
+New confirmed: 	2020
+Total confirmed:61593
+New deaths: 	7
+Total deaths: 	390
+New recovered: 	871
+Date: 		2020-09-19 19:51:46
 
 Country: 	Netherlands
-New confirmed: 	1231
-New confirmed: 	1231
-Total confirmed:81012
-New deaths: 	1
-Total deaths: 	6253
+New confirmed: 	1974
+New confirmed: 	1974
+Total confirmed:90047
+New deaths: 	7
+Total deaths: 	6273
 New recovered: 	0
-Date: 		2020-09-13 11:46:42
+Date: 		2020-09-19 19:51:46
 
 Country: 	New Zealand
 New confirmed: 	2
 New confirmed: 	2
-Total confirmed:1797
+Total confirmed:1811
 New deaths: 	0
-Total deaths: 	24
-New recovered: 	13
-Date: 		2020-09-13 11:46:42
+Total deaths: 	25
+New recovered: 	5
+Date: 		2020-09-19 19:51:46
 
 Country: 	Nicaragua
 New confirmed: 	0
 New confirmed: 	0
-Total confirmed:4818
+Total confirmed:4961
 New deaths: 	0
-Total deaths: 	144
+Total deaths: 	147
 New recovered: 	0
-Date: 		2020-09-13 11:46:42
+Date: 		2020-09-19 19:51:46
 
 Country: 	Niger
 New confirmed: 	0
 New confirmed: 	0
-Total confirmed:1178
+Total confirmed:1183
 New deaths: 	0
 Total deaths: 	69
 New recovered: 	0
-Date: 		2020-09-13 11:46:42
+Date: 		2020-09-19 19:51:46
 
 Country: 	Nigeria
-New confirmed: 	160
-New confirmed: 	160
-Total confirmed:56177
-New deaths: 	2
-Total deaths: 	1078
-New recovered: 	90
-Date: 		2020-09-13 11:46:42
+New confirmed: 	221
+New confirmed: 	221
+Total confirmed:56956
+New deaths: 	1
+Total deaths: 	1094
+New recovered: 	213
+Date: 		2020-09-19 19:51:46
 
 Country: 	Norway
-New confirmed: 	76
-New confirmed: 	76
-Total confirmed:12079
-New deaths: 	0
-Total deaths: 	265
+New confirmed: 	125
+New confirmed: 	125
+Total confirmed:12769
+New deaths: 	1
+Total deaths: 	267
 New recovered: 	0
-Date: 		2020-09-13 11:46:42
+Date: 		2020-09-19 19:51:46
 
 Country: 	Oman
 New confirmed: 	0
 New confirmed: 	0
-Total confirmed:88337
+Total confirmed:91753
 New deaths: 	0
-Total deaths: 	762
+Total deaths: 	818
 New recovered: 	0
-Date: 		2020-09-13 11:46:42
+Date: 		2020-09-19 19:51:46
 
 Country: 	Pakistan
-New confirmed: 	526
-New confirmed: 	526
-Total confirmed:301481
-New deaths: 	6
-Total deaths: 	6379
-New recovered: 	893
-Date: 		2020-09-13 11:46:42
+New confirmed: 	645
+New confirmed: 	645
+Total confirmed:305031
+New deaths: 	7
+Total deaths: 	6415
+New recovered: 	361
+Date: 		2020-09-19 19:51:46
 
 Country: 	Palestinian Territory
-New confirmed: 	650
-New confirmed: 	650
-Total confirmed:29906
+New confirmed: 	558
+New confirmed: 	558
+Total confirmed:34401
 New deaths: 	6
-Total deaths: 	210
-New recovered: 	191
-Date: 		2020-09-13 11:46:42
+Total deaths: 	250
+New recovered: 	273
+Date: 		2020-09-19 19:51:46
 
 Country: 	Panama
-New confirmed: 	711
-New confirmed: 	711
-Total confirmed:101041
-New deaths: 	15
-Total deaths: 	2155
-New recovered: 	618
-Date: 		2020-09-13 11:46:42
+New confirmed: 	741
+New confirmed: 	741
+Total confirmed:104879
+New deaths: 	16
+Total deaths: 	2229
+New recovered: 	1212
+Date: 		2020-09-19 19:51:46
 
 Country: 	Papua New Guinea
 New confirmed: 	0
 New confirmed: 	0
-Total confirmed:508
+Total confirmed:516
 New deaths: 	0
-Total deaths: 	5
+Total deaths: 	6
 New recovered: 	0
-Date: 		2020-09-13 11:46:42
+Date: 		2020-09-19 19:51:46
 
 Country: 	Paraguay
-New confirmed: 	812
-New confirmed: 	812
-Total confirmed:27324
-New deaths: 	18
-Total deaths: 	514
-New recovered: 	498
-Date: 		2020-09-13 11:46:42
+New confirmed: 	1014
+New confirmed: 	1014
+Total confirmed:32127
+New deaths: 	27
+Total deaths: 	611
+New recovered: 	608
+Date: 		2020-09-19 19:51:46
 
 Country: 	Peru
-New confirmed: 	6603
-New confirmed: 	6603
-Total confirmed:716670
-New deaths: 	126
-Total deaths: 	30470
-New recovered: 	14576
-Date: 		2020-09-13 11:46:42
+New confirmed: 	5698
+New confirmed: 	5698
+Total confirmed:750098
+New deaths: 	95
+Total deaths: 	31146
+New recovered: 	0
+Date: 		2020-09-19 19:51:46
 
 Country: 	Philippines
-New confirmed: 	4899
-New confirmed: 	4899
-Total confirmed:257863
-New deaths: 	184
-Total deaths: 	4292
-New recovered: 	510
-Date: 		2020-09-13 11:46:42
+New confirmed: 	3237
+New confirmed: 	3237
+Total confirmed:279526
+New deaths: 	45
+Total deaths: 	4830
+New recovered: 	694
+Date: 		2020-09-19 19:51:46
 
 Country: 	Poland
-New confirmed: 	603
-New confirmed: 	603
-Total confirmed:73650
-New deaths: 	13
-Total deaths: 	2182
-New recovered: 	877
-Date: 		2020-09-13 11:46:42
+New confirmed: 	757
+New confirmed: 	757
+Total confirmed:77328
+New deaths: 	17
+Total deaths: 	2270
+New recovered: 	587
+Date: 		2020-09-19 19:51:46
 
 Country: 	Portugal
-New confirmed: 	497
-New confirmed: 	497
-Total confirmed:63310
-New deaths: 	5
-Total deaths: 	1860
-New recovered: 	250
-Date: 		2020-09-13 11:46:42
+New confirmed: 	780
+New confirmed: 	780
+Total confirmed:67176
+New deaths: 	6
+Total deaths: 	1894
+New recovered: 	259
+Date: 		2020-09-19 19:51:46
 
 Country: 	Qatar
-New confirmed: 	236
-New confirmed: 	236
-Total confirmed:121523
-New deaths: 	0
-Total deaths: 	205
-New recovered: 	276
-Date: 		2020-09-13 11:46:42
+New confirmed: 	224
+New confirmed: 	224
+Total confirmed:122917
+New deaths: 	1
+Total deaths: 	209
+New recovered: 	209
+Date: 		2020-09-19 19:51:46
 
 Country: 	Republic of Kosovo
 New confirmed: 	0
@@ -1238,34 +1238,34 @@ Total confirmed:12683
 New deaths: 	0
 Total deaths: 	488
 New recovered: 	0
-Date: 		2020-09-13 11:46:42
+Date: 		2020-09-19 19:51:46
 
 Country: 	Romania
-New confirmed: 	1311
-New confirmed: 	1311
-Total confirmed:102386
-New deaths: 	27
-Total deaths: 	4127
-New recovered: 	1801
-Date: 		2020-09-13 11:46:42
+New confirmed: 	1527
+New confirmed: 	1527
+Total confirmed:110217
+New deaths: 	48
+Total deaths: 	4360
+New recovered: 	44991
+Date: 		2020-09-19 19:51:46
 
 Country: 	Russian Federation
-New confirmed: 	5406
-New confirmed: 	5406
-Total confirmed:1053663
-New deaths: 	117
-Total deaths: 	18426
-New recovered: 	5354
-Date: 		2020-09-13 11:46:42
+New confirmed: 	5803
+New confirmed: 	5803
+Total confirmed:1086955
+New deaths: 	132
+Total deaths: 	19128
+New recovered: 	5275
+Date: 		2020-09-19 19:51:46
 
 Country: 	Rwanda
-New confirmed: 	31
-New confirmed: 	31
-Total confirmed:4565
-New deaths: 	0
-Total deaths: 	22
-New recovered: 	94
-Date: 		2020-09-13 11:46:42
+New confirmed: 	18
+New confirmed: 	18
+Total confirmed:4671
+New deaths: 	2
+Total deaths: 	25
+New recovered: 	28
+Date: 		2020-09-19 19:51:46
 
 Country: 	Réunion
 New confirmed: 	0
@@ -1274,7 +1274,7 @@ Total confirmed:0
 New deaths: 	0
 Total deaths: 	0
 New recovered: 	0
-Date: 		2020-09-13 11:46:42
+Date: 		2020-09-19 19:51:46
 
 Country: 	Saint Kitts and Nevis
 New confirmed: 	0
@@ -1283,7 +1283,7 @@ Total confirmed:17
 New deaths: 	0
 Total deaths: 	0
 New recovered: 	0
-Date: 		2020-09-13 11:46:42
+Date: 		2020-09-19 19:51:46
 
 Country: 	Saint Lucia
 New confirmed: 	0
@@ -1292,7 +1292,7 @@ Total confirmed:27
 New deaths: 	0
 Total deaths: 	0
 New recovered: 	0
-Date: 		2020-09-13 11:46:42
+Date: 		2020-09-19 19:51:46
 
 Country: 	Saint Vincent and Grenadines
 New confirmed: 	0
@@ -1301,214 +1301,214 @@ Total confirmed:64
 New deaths: 	0
 Total deaths: 	0
 New recovered: 	0
-Date: 		2020-09-13 11:46:42
+Date: 		2020-09-19 19:51:46
 
 Country: 	San Marino
 New confirmed: 	0
 New confirmed: 	0
-Total confirmed:722
+Total confirmed:723
 New deaths: 	0
 Total deaths: 	42
-New recovered: 	0
-Date: 		2020-09-13 11:46:42
+New recovered: 	6
+Date: 		2020-09-19 19:51:46
 
 Country: 	Sao Tome and Principe
-New confirmed: 	0
-New confirmed: 	0
-Total confirmed:906
+New confirmed: 	1
+New confirmed: 	1
+Total confirmed:908
 New deaths: 	0
 Total deaths: 	15
 New recovered: 	0
-Date: 		2020-09-13 11:46:42
+Date: 		2020-09-19 19:51:46
 
 Country: 	Saudi Arabia
-New confirmed: 	643
-New confirmed: 	643
-Total confirmed:325050
-New deaths: 	27
-Total deaths: 	4240
-New recovered: 	903
-Date: 		2020-09-13 11:46:42
+New confirmed: 	576
+New confirmed: 	576
+Total confirmed:328720
+New deaths: 	31
+Total deaths: 	4430
+New recovered: 	1145
+Date: 		2020-09-19 19:51:46
 
 Country: 	Senegal
-New confirmed: 	44
-New confirmed: 	44
-Total confirmed:14237
-New deaths: 	2
-Total deaths: 	295
-New recovered: 	23
-Date: 		2020-09-13 11:46:42
+New confirmed: 	27
+New confirmed: 	27
+Total confirmed:14645
+New deaths: 	1
+Total deaths: 	301
+New recovered: 	128
+Date: 		2020-09-19 19:51:46
 
 Country: 	Serbia
-New confirmed: 	72
-New confirmed: 	72
-Total confirmed:32300
+New confirmed: 	62
+New confirmed: 	62
+Total confirmed:32757
 New deaths: 	1
-Total deaths: 	731
+Total deaths: 	739
 New recovered: 	0
-Date: 		2020-09-13 11:46:42
+Date: 		2020-09-19 19:51:46
 
 Country: 	Seychelles
-New confirmed: 	1
-New confirmed: 	1
-Total confirmed:139
+New confirmed: 	0
+New confirmed: 	0
+Total confirmed:141
 New deaths: 	0
 Total deaths: 	0
 New recovered: 	0
-Date: 		2020-09-13 11:46:42
+Date: 		2020-09-19 19:51:46
 
 Country: 	Sierra Leone
-New confirmed: 	9
-New confirmed: 	9
-Total confirmed:2096
+New confirmed: 	20
+New confirmed: 	20
+Total confirmed:2153
 New deaths: 	0
 Total deaths: 	72
-New recovered: 	12
-Date: 		2020-09-13 11:46:42
+New recovered: 	3
+Date: 		2020-09-19 19:51:46
 
 Country: 	Singapore
-New confirmed: 	42
-New confirmed: 	42
-Total confirmed:57357
+New confirmed: 	11
+New confirmed: 	11
+Total confirmed:57543
 New deaths: 	0
 Total deaths: 	27
-New recovered: 	92
-Date: 		2020-09-13 11:46:42
+New recovered: 	32
+Date: 		2020-09-19 19:51:46
 
 Country: 	Slovakia
-New confirmed: 	201
-New confirmed: 	201
-Total confirmed:5453
-New deaths: 	1
-Total deaths: 	38
-New recovered: 	33
-Date: 		2020-09-13 11:46:42
+New confirmed: 	235
+New confirmed: 	235
+Total confirmed:6256
+New deaths: 	0
+Total deaths: 	39
+New recovered: 	102
+Date: 		2020-09-19 19:51:46
 
 Country: 	Slovenia
-New confirmed: 	106
-New confirmed: 	106
-Total confirmed:3603
-New deaths: 	0
-Total deaths: 	135
-New recovered: 	37
-Date: 		2020-09-13 11:46:42
+New confirmed: 	137
+New confirmed: 	137
+Total confirmed:4195
+New deaths: 	4
+Total deaths: 	140
+New recovered: 	42
+Date: 		2020-09-19 19:51:46
 
 Country: 	Somalia
 New confirmed: 	0
 New confirmed: 	0
-Total confirmed:3376
+Total confirmed:3390
 New deaths: 	0
 Total deaths: 	98
 New recovered: 	0
-Date: 		2020-09-13 11:46:42
+Date: 		2020-09-19 19:51:46
 
 Country: 	South Africa
-New confirmed: 	1816
-New confirmed: 	1816
-Total confirmed:648214
-New deaths: 	49
-Total deaths: 	15427
-New recovered: 	1836
-Date: 		2020-09-13 11:46:42
+New confirmed: 	2055
+New confirmed: 	2055
+Total confirmed:657627
+New deaths: 	85
+Total deaths: 	15857
+New recovered: 	1541
+Date: 		2020-09-19 19:51:46
 
 Country: 	South Sudan
 New confirmed: 	10
 New confirmed: 	10
-Total confirmed:2578
+Total confirmed:2609
 New deaths: 	0
 Total deaths: 	49
 New recovered: 	0
-Date: 		2020-09-13 11:46:42
+Date: 		2020-09-19 19:51:46
 
 Country: 	Spain
-New confirmed: 	0
-New confirmed: 	0
-Total confirmed:566326
-New deaths: 	0
-Total deaths: 	29747
+New confirmed: 	14389
+New confirmed: 	14389
+Total confirmed:640040
+New deaths: 	90
+Total deaths: 	30495
 New recovered: 	0
-Date: 		2020-09-13 11:46:42
+Date: 		2020-09-19 19:51:46
 
 Country: 	Sri Lanka
-New confirmed: 	26
-New confirmed: 	26
-Total confirmed:3195
+New confirmed: 	5
+New confirmed: 	5
+Total confirmed:3281
 New deaths: 	0
-Total deaths: 	12
-New recovered: 	14
-Date: 		2020-09-13 11:46:42
+Total deaths: 	13
+New recovered: 	17
+Date: 		2020-09-19 19:51:46
 
 Country: 	Sudan
 New confirmed: 	0
 New confirmed: 	0
-Total confirmed:13470
+Total confirmed:13535
 New deaths: 	0
-Total deaths: 	834
+Total deaths: 	836
 New recovered: 	0
-Date: 		2020-09-13 11:46:42
+Date: 		2020-09-19 19:51:46
 
 Country: 	Suriname
-New confirmed: 	50
-New confirmed: 	50
-Total confirmed:4579
-New deaths: 	0
-Total deaths: 	93
-New recovered: 	41
-Date: 		2020-09-13 11:46:42
+New confirmed: 	20
+New confirmed: 	20
+Total confirmed:4691
+New deaths: 	1
+Total deaths: 	96
+New recovered: 	120
+Date: 		2020-09-19 19:51:46
 
 Country: 	Swaziland
-New confirmed: 	25
-New confirmed: 	25
-Total confirmed:5050
+New confirmed: 	24
+New confirmed: 	24
+Total confirmed:5215
 New deaths: 	0
-Total deaths: 	98
-New recovered: 	23
-Date: 		2020-09-13 11:46:42
+Total deaths: 	103
+New recovered: 	39
+Date: 		2020-09-19 19:51:46
 
 Country: 	Sweden
-New confirmed: 	0
-New confirmed: 	0
-Total confirmed:86505
-New deaths: 	0
-Total deaths: 	5846
+New confirmed: 	352
+New confirmed: 	352
+Total confirmed:88237
+New deaths: 	1
+Total deaths: 	5865
 New recovered: 	0
-Date: 		2020-09-13 11:46:42
+Date: 		2020-09-19 19:51:46
 
 Country: 	Switzerland
-New confirmed: 	465
-New confirmed: 	465
-Total confirmed:46704
-New deaths: 	0
-Total deaths: 	2020
-New recovered: 	400
-Date: 		2020-09-13 11:46:42
+New confirmed: 	488
+New confirmed: 	488
+Total confirmed:49283
+New deaths: 	3
+Total deaths: 	2045
+New recovered: 	600
+Date: 		2020-09-19 19:51:46
 
 Country: 	Syrian Arab Republic (Syria)
-New confirmed: 	30
-New confirmed: 	30
-Total confirmed:3506
-New deaths: 	2
-Total deaths: 	152
+New confirmed: 	40
+New confirmed: 	40
+Total confirmed:3731
+New deaths: 	3
+Total deaths: 	168
 New recovered: 	15
-Date: 		2020-09-13 11:46:42
+Date: 		2020-09-19 19:51:46
 
 Country: 	Taiwan, Republic of China
 New confirmed: 	0
 New confirmed: 	0
-Total confirmed:498
+Total confirmed:503
 New deaths: 	0
 Total deaths: 	7
 New recovered: 	0
-Date: 		2020-09-13 11:46:42
+Date: 		2020-09-19 19:51:46
 
 Country: 	Tajikistan
-New confirmed: 	37
-New confirmed: 	37
-Total confirmed:9014
+New confirmed: 	45
+New confirmed: 	45
+Total confirmed:9259
 New deaths: 	0
-Total deaths: 	72
-New recovered: 	35
-Date: 		2020-09-13 11:46:42
+Total deaths: 	73
+New recovered: 	38
+Date: 		2020-09-19 19:51:46
 
 Country: 	Tanzania, United Republic of
 New confirmed: 	0
@@ -1517,16 +1517,16 @@ Total confirmed:509
 New deaths: 	0
 Total deaths: 	21
 New recovered: 	0
-Date: 		2020-09-13 11:46:42
+Date: 		2020-09-19 19:51:46
 
 Country: 	Thailand
-New confirmed: 	12
-New confirmed: 	12
-Total confirmed:3473
+New confirmed: 	0
+New confirmed: 	0
+Total confirmed:3497
 New deaths: 	0
 Total deaths: 	58
 New recovered: 	0
-Date: 		2020-09-13 11:46:42
+Date: 		2020-09-19 19:51:46
 
 Country: 	Timor-Leste
 New confirmed: 	0
@@ -1535,124 +1535,124 @@ Total confirmed:27
 New deaths: 	0
 Total deaths: 	0
 New recovered: 	0
-Date: 		2020-09-13 11:46:42
+Date: 		2020-09-19 19:51:46
 
 Country: 	Togo
-New confirmed: 	7
-New confirmed: 	7
-Total confirmed:1555
+New confirmed: 	22
+New confirmed: 	22
+Total confirmed:1640
 New deaths: 	0
-Total deaths: 	37
-New recovered: 	23
-Date: 		2020-09-13 11:46:42
+Total deaths: 	41
+New recovered: 	8
+Date: 		2020-09-19 19:51:46
 
 Country: 	Trinidad and Tobago
-New confirmed: 	168
-New confirmed: 	168
-Total confirmed:2993
-New deaths: 	1
-Total deaths: 	51
-New recovered: 	4
-Date: 		2020-09-13 11:46:42
+New confirmed: 	217
+New confirmed: 	217
+Total confirmed:3651
+New deaths: 	0
+Total deaths: 	60
+New recovered: 	117
+Date: 		2020-09-19 19:51:46
 
 Country: 	Tunisia
-New confirmed: 	376
-New confirmed: 	376
-Total confirmed:6635
-New deaths: 	4
-Total deaths: 	107
-New recovered: 	35
-Date: 		2020-09-13 11:46:42
+New confirmed: 	0
+New confirmed: 	0
+Total confirmed:8570
+New deaths: 	0
+Total deaths: 	133
+New recovered: 	0
+Date: 		2020-09-19 19:51:46
 
 Country: 	Turkey
-New confirmed: 	1509
-New confirmed: 	1509
-Total confirmed:289635
-New deaths: 	48
-Total deaths: 	6999
-New recovered: 	1207
-Date: 		2020-09-13 11:46:42
+New confirmed: 	1771
+New confirmed: 	1771
+Total confirmed:299810
+New deaths: 	62
+Total deaths: 	7377
+New recovered: 	1060
+Date: 		2020-09-19 19:51:46
 
 Country: 	Uganda
-New confirmed: 	326
-New confirmed: 	326
-Total confirmed:4703
-New deaths: 	3
-Total deaths: 	52
-New recovered: 	0
-Date: 		2020-09-13 11:46:42
+New confirmed: 	214
+New confirmed: 	214
+Total confirmed:5594
+New deaths: 	1
+Total deaths: 	61
+New recovered: 	55
+Date: 		2020-09-19 19:51:46
 
 Country: 	Ukraine
-New confirmed: 	3185
-New confirmed: 	3185
-Total confirmed:155558
-New deaths: 	74
-Total deaths: 	3206
-New recovered: 	1415
-Date: 		2020-09-13 11:46:42
+New confirmed: 	3330
+New confirmed: 	3330
+Total confirmed:173703
+New deaths: 	70
+Total deaths: 	3535
+New recovered: 	1637
+Date: 		2020-09-19 19:51:46
 
 Country: 	United Arab Emirates
-New confirmed: 	1007
-New confirmed: 	1007
-Total confirmed:78849
+New confirmed: 	865
+New confirmed: 	865
+Total confirmed:83433
 New deaths: 	1
-Total deaths: 	399
-New recovered: 	521
-Date: 		2020-09-13 11:46:42
+Total deaths: 	403
+New recovered: 	673
+Date: 		2020-09-19 19:51:46
 
 Country: 	United Kingdom
-New confirmed: 	3504
-New confirmed: 	3504
-Total confirmed:367592
-New deaths: 	9
-Total deaths: 	41712
-New recovered: 	32
-Date: 		2020-09-13 11:46:42
+New confirmed: 	4329
+New confirmed: 	4329
+Total confirmed:388416
+New deaths: 	27
+Total deaths: 	41821
+New recovered: 	12
+Date: 		2020-09-19 19:51:46
 
 Country: 	United States of America
-New confirmed: 	41471
-New confirmed: 	41471
-Total confirmed:6485214
-New deaths: 	714
-Total deaths: 	193693
-New recovered: 	16780
-Date: 		2020-09-13 11:46:42
+New confirmed: 	49522
+New confirmed: 	49522
+Total confirmed:6723933
+New deaths: 	937
+Total deaths: 	198570
+New recovered: 	16131
+Date: 		2020-09-19 19:51:46
 
 Country: 	Uruguay
-New confirmed: 	7
-New confirmed: 	7
-Total confirmed:1780
+New confirmed: 	14
+New confirmed: 	14
+Total confirmed:1890
 New deaths: 	0
-Total deaths: 	45
-New recovered: 	12
-Date: 		2020-09-13 11:46:42
+Total deaths: 	46
+New recovered: 	21
+Date: 		2020-09-19 19:51:46
 
 Country: 	Uzbekistan
-New confirmed: 	561
-New confirmed: 	561
-Total confirmed:46721
-New deaths: 	7
-Total deaths: 	384
-New recovered: 	502
-Date: 		2020-09-13 11:46:42
+New confirmed: 	626
+New confirmed: 	626
+Total confirmed:50253
+New deaths: 	6
+Total deaths: 	419
+New recovered: 	557
+Date: 		2020-09-19 19:51:46
 
 Country: 	Venezuela (Bolivarian Republic)
-New confirmed: 	967
-New confirmed: 	967
-Total confirmed:59630
-New deaths: 	9
-Total deaths: 	477
-New recovered: 	769
-Date: 		2020-09-13 11:46:42
+New confirmed: 	890
+New confirmed: 	890
+Total confirmed:65174
+New deaths: 	10
+Total deaths: 	530
+New recovered: 	1654
+Date: 		2020-09-19 19:51:46
 
 Country: 	Viet Nam
-New confirmed: 	0
-New confirmed: 	0
-Total confirmed:1060
+New confirmed: 	2
+New confirmed: 	2
+Total confirmed:1068
 New deaths: 	0
 Total deaths: 	35
-New recovered: 	8
-Date: 		2020-09-13 11:46:42
+New recovered: 	1
+Date: 		2020-09-19 19:51:46
 
 Country: 	Western Sahara
 New confirmed: 	0
@@ -1661,14 +1661,32 @@ Total confirmed:10
 New deaths: 	0
 Total deaths: 	1
 New recovered: 	0
-Date: 		2020-09-13 11:46:42
+Date: 		2020-09-19 19:51:46
 
 Country: 	Yemen
 New confirmed: 	2
 New confirmed: 	2
-Total confirmed:2009
+Total confirmed:2024
 New deaths: 	0
-Total deaths: 	582
+Total deaths: 	585
 New recovered: 	0
-Date: 		2020-09-13 11:46:42
+Date: 		2020-09-19 19:51:46
+
+Country: 	Zambia
+New confirmed: 	94
+New confirmed: 	94
+Total confirmed:14022
+New deaths: 	3
+Total deaths: 	329
+New recovered: 	178
+Date: 		2020-09-19 19:51:46
+
+Country: 	Zimbabwe
+New confirmed: 	14
+New confirmed: 	14
+Total confirmed:7647
+New deaths: 	0
+Total deaths: 	224
+New recovered: 	42
+Date: 		2020-09-19 19:51:46
 
